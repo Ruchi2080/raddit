@@ -1,15 +1,15 @@
 <html>
 <head>
-     <title>raddit</title>
+     <tittle>raddit</tittle>
      </head>
      <body>
           <h1>raddit</h1>
           <a href="index.html">home</a>
-          <a href="food.html">food</a>
           <a href="drink.html">drink</a>
           <br/>
-          <h2>Raddit: Aplace for backward rabbit. </h2>
+          <hr/>
+          <h2>Raddit:<?h2> Aplace for backward rabbit.
           <br/>
           <h6>Copyright 2019: Font-end class</h6>
-    </body>
-    </html>
+<<body/>
+<html/>

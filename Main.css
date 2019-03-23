@@ -1,21 +1,87 @@
 h1 {
-    font-size: 5 em;
+    font-size: 5em;
 }
 
-.post {
+.blog-post {
     width: 800px;
     margin-left: 100px;
+    background-color:white;
 }
 
+.blog-post p {
+    margin : 30px;
 
+
+}
+
+.link-class { 
+    display: flex;
+    justify-content: space-around;
+}
+
+.blog-post h3 {
+    background-color: deepskyblue;
+    padding: 10px;
+}
+
+body{
+    background: #b2b3b3;
+}
 .blog-visited {
     width:400px;
 }
 
 .fas{
-    margin-left:100px
-    font size; 30px
-    color orange;
-}
+    margin-left: 100px;
+    font-size: 30px;
+    color:orange;
+ }
+
+ .link-class a{
+     padding: left 10px;
+     text-decoration: none;
+     font-size: 30 px;
+     border-right: 2 px solid green line;
+ }
+
+ .blog-post-wrapper {
+     display: flex;
+     flex-direction: column;
+     align-items : center;
+    }
+    .blog-post-author {
+        padding:  5px 10px;
+        display:flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .table-class {
+        border: 2px solid black
+    }
+    table{
+        width:100;
+    }
+    th {
+        font-weight: bold;
+        font-size: 20px;
+        color:blue;
+    }
+    tr {
+        text-align: center;
+    }
+    tr:nth-child(even) {
+        backgroud-color: #dddddd;
+    }
+    td {
+        border: 1px solid black;
+        padding: 10 px;
+    }
+
+    
+     
+
+
+ 
+
 
 

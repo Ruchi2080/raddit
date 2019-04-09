@@ -83,6 +83,19 @@ body{
         padding: 10px;
     }
      
+    .thumbs-class {
+        margin: 10px;
+        color: grey;
+      }
+      
+      .thumbs-class:hover {
+        cursor: grab;
+      }
+      
+      .thumbs-liked {
+        color: gold;
+        font-size: 40px;
+      }
 
 
  
